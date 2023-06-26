@@ -1,0 +1,65 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "9nUxuZ6rrpZzbDzvdF5vTbSCeIQ",
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "6PcHfPu4FiDKK6Of5fJCPWp6kK0",
+        "id": "UExfWHh1WnFOMHhWRGdyN0tyZUk1UGFWWnVHOFN4M0wyYy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2022-04-26T00:54:11Z",
+          "channelId": "UCrmHQdRbYKFsB602Duho4Tw",
+          "title": "Complete ElectronJS Crash Course in Bangla | Create Desktop Application using JavaScript & Electron",
+          "description": "Complete ElectronJS Crash Course in Bangla | Create Desktop Application using JavaScript & Electron\nThis video is the first contribution from our community. In this video, you will learn to develop desktop applications using JavaScript and electron framework. Let us know your feedback in the comment section. \n\nLecturer: Habibul Islam (Habib)\nYoutube Channel: https://www.youtube.com/channel/UC0BQQIXEC59XCiwlAm0cm0Q\nFacebook: https://www.facebook.com/habibul.islam.1082\n\nডোনেশন এবং ব্রান্ড প্লেসমেন্ট সম্পর্কে বিস্তারিত জানতে নিচের ফর্মের লিংকে ভিসিট করুন। \nLink: https://forms.gle/vqmjWdpf6BvQZA1SA\n\nআমাদের সাথে যোগাযোগ করুনঃ  \n---------------------------------------------------\nEmail: support@stacklearner.com, hasan.m.nayem@gmail.com\nফেসবুক পেজঃ https://fb.me/stacklearner \nফেসবুক গ্রুপঃ https://fb.com/groups/stacklearner \nLinkedIn পেজঃ https://linkedin.com/company/stacklearner \nTwitter: https://twitter.com/stacklearner\nInstagram: https://instagram.com/stacklearner",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N-3s3ezYd8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N-3s3ezYd8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N-3s3ezYd8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N-3s3ezYd8g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N-3s3ezYd8g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stack Learner",
+          "playlistId": "PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "N-3s3ezYd8g"
+          },
+          "videoOwnerChannelTitle": "Stack Learner",
+          "videoOwnerChannelId": "UCrmHQdRbYKFsB602Duho4Tw"
+        },
+        "contentDetails": {
+          "videoId": "N-3s3ezYd8g",
+          "videoPublishedAt": "2022-04-26T04:00:09Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 50
+    }
+  }
+  
